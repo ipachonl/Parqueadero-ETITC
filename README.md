@@ -9,11 +9,6 @@
    
  **Requerimientos de la solución:**
 
-A. Base de datos gestionadas para almacenar información de vehículos y usuarios.
-B. Sistema de generación y asignación de códigos QR.
-C. Aplicación o página web para escanear códigos QR.
-D. Interfaz de usuario para guardas de seguridad.
-E. Sistema de reportes y análisis de datos. 
 
 ## Objetivo General
 
