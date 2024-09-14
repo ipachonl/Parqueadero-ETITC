@@ -1,1 +1,11 @@
+#1. Objetivo del Proyecto
+Estamos tratando de realizar un proyecto el cual beneficiaria a todos los estudiantes, profesores y directivas, con el fin de mejorar el tráfico y el tiempo de espera del parqueadero de la universidad pública de Kennedy, para poder llegar a nuestros deberes o clases prolongadas a tiempo.
+Esto lo estamos haciendo con el fin de facilitar el trabajo de nuestros guardas de seguridad y para que lleven un mejor control por medio de la digitalización y no tengan que llevar un control manual de entrada y salida a través de hojas, portafolios y cuadernos (Minutas). 
+Lo que queremos implementar es el uso de tecnologías, una bases de datos gentionada, faciles de usar y totalmente monitoriada, para obtener estos registros en las bases de datos lo haremos por medio de códigos QR que nos permitirá automatizar el registro de ingreso y salida, agilizando tiempo de espera y reduciendo la posibilidad de errores o robos. Además, la implementación de una aplicación o página web para que los celadores escaneen los códigos asignados a cada ususraio y asi sera una forma rápida y eficiente de llevar un registro preciso de los vehículos que ingresan y salen del parqueadero.
 
+#2. Descripción del Proyecto
+**A-** El primer paso es la recolección de datos de todos los usuarios que utilizarán el parqueadero, incluyendo estudiantes, docentes y personal administrativo de las tres universidades involucradas.
+Este proceso incluye la recopilación de información personal básica (nombre, identificación, universidad), así como datos específicos del vehículo (marca, modelo, placa). Para asegurar que el sistema sea eficiente y preciso, la recolección de datos podría realizarse mediante formularios en línea, donde los usuarios proporcionan sus datos y los detalles de sus vehículos.
+Es importante garantizar la seguridad y privacidad de los datos recogidos, cumpliendo con las regulaciones de protección de datos. Además, se debe validar la información para asegurar que esté correcta y actualizada, evitando errores que podrían afectar el funcionamiento del sistema.
+
+**B-**
