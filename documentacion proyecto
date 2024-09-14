@@ -1,5 +1,9 @@
 #¡Planteamiento del Problema
-El problema a resolver es que la universidad no tiene un control eficiente sobre el ingreso de vehiculos al parqueadero  del campus debido a que este registro se realiza mediante hojas (minutas) generando demora en el ingreso de los estudiantes y personal que llegan en diferentes tipos de vehiculos adicional genera inconvenientes en el trafico local ta les como trancones en la avenida, obstaculizando las entradas y salidas.
+En este proyecto tenemos 3 problemáticas:
+
+1. El tarfico y tiempo de espera al momento de la entrada y salida del parqueadero.
+2. La seguiridad en la salida del parqueadero (ya que por veces no piden pruebas del vehiculo en el que va saliendo, si es de su propiedad o no)
+3. Los registros son manuales en hojas, portafolios y cuadernos (Minutas), etc.
 
 #¡Objetivo General
 Presentar la implementación de un programa de registro de ingreso a parqueaderos en entornos universitarios, destacando sus beneficios en términos de eficiencia y seguridad en la gestión de estos espacios.
