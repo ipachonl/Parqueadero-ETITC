@@ -1,11 +1,17 @@
-#1. Objetivo del Proyecto
-Estamos tratando de realizar un proyecto el cual beneficiaria a todos los estudiantes, profesores y directivas, con el fin de mejorar el tráfico y el tiempo de espera del parqueadero de la universidad pública de Kennedy, para poder llegar a nuestros deberes o clases prolongadas a tiempo.
-Esto lo estamos haciendo con el fin de facilitar el trabajo de nuestros guardas de seguridad y para que lleven un mejor control por medio de la digitalización y no tengan que llevar un control manual de entrada y salida a través de hojas, portafolios y cuadernos (Minutas). 
-Lo que queremos implementar es el uso de tecnologías, una bases de datos gentionada, faciles de usar y totalmente monitoriada, para obtener estos registros en las bases de datos lo haremos por medio de códigos QR que nos permitirá automatizar el registro de ingreso y salida, agilizando tiempo de espera y reduciendo la posibilidad de errores o robos. Además, la implementación de una aplicación o página web para que los celadores escaneen los códigos asignados a cada ususraio y asi sera una forma rápida y eficiente de llevar un registro preciso de los vehículos que ingresan y salen del parqueadero.
+#¡Planeamiento del problema
+ En este proyecto tenemos 3 problemáticas:
+1.	El tarfico y tiempo de espera que se hace al momento de la entrada y salida del parqueadero.
+2.  La seguiridad en la salida del parqueadero (ya que por veces no piden pruebas del vehiculo en el que va saliendo, si es de su propiedad o no)
+3.  Los registros son manuales en hojas, portafolios y cuadernos (Minutas), etc.
 
-#2. Descripción del Proyecto
-**A-** El primer paso es la recolección de datos de todos los usuarios que utilizarán el parqueadero, incluyendo estudiantes, docentes y personal administrativo de las tres universidades involucradas.
-Este proceso incluye la recopilación de información personal básica (nombre, identificación, universidad), así como datos específicos del vehículo (marca, modelo, placa). Para asegurar que el sistema sea eficiente y preciso, la recolección de datos podría realizarse mediante formularios en línea, donde los usuarios proporcionan sus datos y los detalles de sus vehículos.
-Es importante garantizar la seguridad y privacidad de los datos recogidos, cumpliendo con las regulaciones de protección de datos. Además, se debe validar la información para asegurar que esté correcta y actualizada, evitando errores que podrían afectar el funcionamiento del sistema.
+#¡Objetivo General
 
-**B-**
+Presentaremos la implementación de un programa o aplicacion que lleve los registro de Entrada  y salida de los parqueaderos en la UPK, esto con el fin de digitalizar los procesos de registro que se hacen hoy en dia manualmnete, para asi obtener un mejor control y mucha mas seguridad en el parqueadero.
+
+### Objetivos Especificos
+
+•	Integrar el sistema de control de acceso a los parqueaderos universitarios basado en tecnología QR con la aplicación móvil institucional, permitiendo a los usuarios utilizar su carnet virtual como llave de acceso a los parqueaderos.
+
+•	Describir los componentes principales del programa propuesto, incluyendo la base de datos y la generación de códigos QR, así como la aplicación o página web para el escaneo de estos códigos.
+
+•	Aumentar la eficiencia del registro de vehículos, eliminando errores humanos y facilitando la generación de reportes detallados sobre la ocupación de los parqueaderos, lo cual permitirá una mejor planificación y gestión de los espacios disponibles.
