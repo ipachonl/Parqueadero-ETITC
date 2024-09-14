@@ -4,7 +4,7 @@
 **En este proyecto tenemos 3 problemáticas:**
 
 1. El trafico y tiempo de espera al momento de la entrada y salida del parqueadero.
-2. La seguridad en la salida del parqueadero (ya que por veces no piden pruebas del vehiculo en el que va saliendo, si es de su propiedad o no)
+2. La seguridad en la salida del parqueadero (En ocasiones no piden documentacion del vehiculo que va saliendo, para saber si es de su propiedad o no)
 3. Los registros son manuales en hojas, portafolios y cuadernos (Minutas), etc.
 
 ## Objetivo General
