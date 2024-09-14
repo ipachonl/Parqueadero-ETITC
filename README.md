@@ -26,3 +26,10 @@ Desarrollar e implementar un sistema de gestión de parqueadero basado en bases 
 •	Describir los componentes principales del programa propuesto, incluyendo la base de datos y la generación de códigos QR, así como la aplicación o página web para el escaneo de estos códigos.
 
 •	Aumentar la eficiencia del registro de vehículos, eliminando errores humanos y facilitando la generación de reportes detallados sobre la ocupación de los parqueaderos, lo cual permitirá una mejor planificación y gestión de los espacios disponibles.
+
+•	Realizar pruebas de rendimiento y seguridad del sistema para garantizar su fiabilidad y eficacia. 
+
+•	Capacitar al personal de seguridad y administrativo en el uso del nuevo sistema de gestión de parqueadero. 
+
+•	Evaluar el impacto del nuevo sistema en los tiempos de espera y la satisfacción de los usuarios del parqueadero mediante encuestas y análisis de datos.
+
