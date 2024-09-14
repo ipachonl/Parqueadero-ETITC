@@ -15,7 +15,7 @@
  4. Interfaz de usuario para guardas de seguridad.
  5. Sistema de reportes y análisis de datos.
 
-## Objetivo General
+## Objetivo principal
 
 Desarrollar e implementar un sistema de gestión de parqueadero basado en bases de datos y generacion de códigos QR para la Universidad Pública de Kennedy, con el fin de optimizar el control de acceso, reducir los tiempos de espera, mejorar segurida y la eficiencia operativa.
 
