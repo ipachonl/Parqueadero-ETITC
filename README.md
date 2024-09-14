@@ -9,11 +9,52 @@
    
  **Requerimientos de la solución:**
 
- 1. Base de datos gestionadas para almacenar información de vehículos y usuarios. 
- 2. Sistema de generación y asignación de códigos QR.
- 3. Aplicación o página web para escanear códigos QR.
- 4. Interfaz de usuario para guardas de seguridad.
- 5. Sistema de reportes y análisis de datos.
+**Base de datos:** 
+•	Diseño de una base de datos relacional para almacenar información de usuarios, vehículos y registros de entrada/salida.
+•	Capacidad para manejar un alto volumen de transacciones concurrentes.
+•	Mecanismos de backup y recuperación de datos.
+**Sistema de generación y gestión de códigos QR:**
+•	Generación de códigos QR únicos para cada vehículo registrado.
+•	Vinculación de códigos QR con información del usuario y vehículo en la base de datos.
+•	Sistema de renovación y revocación de códigos QR.
+**Aplicación móvil/web para escaneo:** 
+•	Compatibilidad con dispositivos iOS y Android.
+•	Interfaz intuitiva para escanear códigos QR rápidamente.
+•	Sincronización en tiempo real con la base de datos central.
+•	Interfaz de usuario para guardas de seguridad: 
+•	Panel de control para visualizar entradas y salidas recientes.
+•	Capacidad para registrar manualmente vehículos en caso de fallo del sistema QR.
+•	Alertas visuales y sonoras para situaciones irregulares (ej. vehículo no autorizado).
+**Sistema de reportes y análisis:** 
+•	Generación de informes diarios, semanales y mensuales de uso del parqueadero.
+•	Análisis de patrones de uso y ocupación.
+•	Exportación de datos en formatos comunes (CSV, PDF, Excel).
+**Gestión de usuarios y permisos:** 
+•	Sistema de registro para nuevos usuarios (estudiantes, profesores, personal).
+•	Diferentes niveles de acceso (administrador, guarda, usuario regular).
+•	Proceso de aprobación para nuevos registros de vehículos.
+**Notificaciones y comunicaciones:** 
+•	Sistema de notificaciones push para informar a los usuarios sobre el estado del parqueadero.
+•	Alertas automáticas cuando el parqueadero esté cerca de su capacidad máxima.
+**Seguridad y privacidad:** 
+•	Encriptación de datos sensibles en la base de datos.
+•	Cumplimiento con regulaciones de protección de datos personales.
+•	Registro de auditoría para todas las transacciones y accesos al sistema.
+**Escalabilidad y rendimiento:** 
+
+•	Arquitectura que permita escalar el sistema a medida que crezca la demanda.
+•	Optimización para manejar picos de tráfico durante horas punta.
+**Interfaz de administración:** 
+
+•	Panel de control para gestionar usuarios, vehículos y permisos.
+
+•	Herramientas para configurar parámetros del sistema (ej. capacidad del parqueadero, horarios de operación).
+
+**Monitoreo y mantenimiento:** 
+
+•	Herramientas de monitoreo en tiempo real del estado del sistema.
+
+•	Logs detallados para facilitar el diagnóstico y resolución de problemas.
 
 ## Objetivo principal
 
