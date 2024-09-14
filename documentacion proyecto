@@ -6,7 +6,7 @@ En este proyecto tenemos 3 problemáticas:
 3. Los registros son manuales en hojas, portafolios y cuadernos (Minutas), etc.
 
 #¡Objetivo General
-Presentar la implementación de un programa de registro de ingreso a parqueaderos en entornos universitarios, destacando sus beneficios en términos de eficiencia y seguridad en la gestión de estos espacios.
+Implementaremos un programa que registre de manera digital la entrada y salida del parqueaderos en la UPK. Este proyecto tiene como finalidad digitalizar los procesos de registro actualmente manuales, logrando así un mejor control y mayor seguridad en el parqueadero.
 
 ### Objetivos Especificos
 
