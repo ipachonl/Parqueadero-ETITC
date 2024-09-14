@@ -6,6 +6,14 @@
 1. El trafico y tiempo de espera al momento de la entrada y salida del parqueadero.
 2. La seguridad en la salida del parqueadero (En ocasiones no piden documentacion del vehiculo que va saliendo, para saber si es de su propiedad o no)
 3. Los registros son manuales en hojas, portafolios y cuadernos (Minutas), etc.
+   
+ **Requerimientos de la solución:**
+
+• Base de datos para almacenar información de vehículos y usuarios.
+• Sistema de generación y asignación de códigos QR.
+• Aplicación o página web para escanear códigos QR.
+• Interfaz de usuario para guardas de seguridad.
+• Sistema de reportes y análisis de datos.  
 
 ## Objetivo General
 
