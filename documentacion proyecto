@@ -15,4 +15,8 @@ Desarrollar e implementar un sistema de gestión de parqueadero basado en bases 
 •	Describir los componentes principales del programa propuesto, incluyendo la base de datos y la generación de códigos QR, así como la aplicación o página web para el escaneo de estos códigos.
 
 •	Aumentar la eficiencia del registro de vehículos, eliminando errores humanos y facilitando la generación de reportes detallados sobre la ocupación de los parqueaderos, lo cual permitirá una mejor planificación y gestión de los espacios disponibles.
-  
+
+#¡ Justificacion
+
+La implementación de un programa de registro de ingreso a parqueaderos responde a la necesidad de mejorar la gestión de estos espacios en la Universidad Publica de Kennedy. Actualmente, el proceso de registro y control de vehículos en parqueaderos puede ser tedioso y propenso a errores, adicionalmente se pueden presentar fallas de seguridad, lo que genera inconvenientes tanto para los estudiantes como para los administradores. Por lo tanto, se hace imperativo desarrollar una solución que optimice este proceso y brinde beneficios tanto a los estudiantes como a la institución.
+El uso de tecnologías como bases de datos y códigos QR permitirá automatizar el registro de ingreso, agilizando el proceso y reduciendo la posibilidad de errores. Además, la implementación de una aplicación o página web para que los celadores escaneen los códigos asignados proporcionará una forma rápida y eficiente de llevar un registro preciso de los vehículos que ingresan al parqueadero.
