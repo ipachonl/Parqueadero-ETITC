@@ -9,7 +9,7 @@
    
  **Requerimientos de la solución:**
 
-**Base de datos:** 
+**1. Base de datos:** 
 
 •	Diseño de una base de datos relacional para almacenar información de usuarios, vehículos y registros de entrada/salida.
 
@@ -17,7 +17,7 @@
 
 •	Mecanismos de backup y recuperación de datos.
 
-**Sistema de generación y gestión de códigos QR:**
+**2. Sistema de generación y gestión de códigos QR:**
 
 •	Generación de códigos QR únicos para cada vehículo registrado.
 
@@ -25,7 +25,7 @@
 
 •	Sistema de renovación y revocación de códigos QR.
 
-**Aplicación móvil/web para escaneo:** 
+**3. Aplicación móvil/web para escaneo:** 
 
 •	Compatibilidad con dispositivos iOS y Android.
 
@@ -41,7 +41,7 @@
 
 •	Alertas visuales y sonoras para situaciones irregulares (ej. vehículo no autorizado).
 
-**Sistema de reportes y análisis:** 
+**4. Sistema de reportes y análisis:** 
 
 •	Generación de informes diarios, semanales y mensuales de uso del parqueadero.
 
@@ -49,7 +49,7 @@
 
 •	Exportación de datos en formatos comunes (CSV, PDF, Excel).
 
-**Gestión de usuarios y permisos:** 
+**5. Gestión de usuarios y permisos:** 
 
 •	Sistema de registro para nuevos usuarios (estudiantes, profesores, personal).
 
@@ -57,13 +57,13 @@
 
 •	Proceso de aprobación para nuevos registros de vehículos.
 
-**Notificaciones y comunicaciones:** 
+**6. Notificaciones y comunicaciones:** 
 
 •	Sistema de notificaciones push para informar a los usuarios sobre el estado del parqueadero.
 
 •	Alertas automáticas cuando el parqueadero esté cerca de su capacidad máxima.
 
-**Seguridad y privacidad:** 
+**7. Seguridad y privacidad:** 
 
 •	Encriptación de datos sensibles en la base de datos.
 
@@ -71,20 +71,20 @@
 
 •	Registro de auditoría para todas las transacciones y accesos al sistema.
 
-**Escalabilidad y rendimiento:** 
+**8. Escalabilidad y rendimiento:** 
 
 
 •	Arquitectura que permita escalar el sistema a medida que crezca la demanda.
 
 •	Optimización para manejar picos de tráfico durante horas punta.
 
-**Interfaz de administración:** 
+**9. Interfaz de administración:** 
 
 •	Panel de control para gestionar usuarios, vehículos y permisos.
 
 •	Herramientas para configurar parámetros del sistema (ej. capacidad del parqueadero, horarios de operación).
 
-**Monitoreo y mantenimiento:** 
+**10. Monitoreo y mantenimiento:** 
 
 •	Herramientas de monitoreo en tiempo real del estado del sistema.
 
