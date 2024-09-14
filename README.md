@@ -9,6 +9,9 @@
    
  **Requerimientos de la solución:**
 
+ A. Base de datos gestionadas para almacenar información de vehículos y usuarios. 
+ 
+
 
 ## Objetivo General
 
