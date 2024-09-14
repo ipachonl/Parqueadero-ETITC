@@ -33,7 +33,7 @@
 
 •	Sincronización en tiempo real con la base de datos central.
 
-•	Interfaz de usuario para guardas de seguridad: 
+**4. Interfaz de usuario para guardas de seguridad:**
 
 •	Panel de control para visualizar entradas y salidas recientes.
 
@@ -41,7 +41,7 @@
 
 •	Alertas visuales y sonoras para situaciones irregulares (ej. vehículo no autorizado).
 
-**4. Sistema de reportes y análisis:** 
+**5. Sistema de reportes y análisis:** 
 
 •	Generación de informes diarios, semanales y mensuales de uso del parqueadero.
 
@@ -49,7 +49,7 @@
 
 •	Exportación de datos en formatos comunes (CSV, PDF, Excel).
 
-**5. Gestión de usuarios y permisos:** 
+**6. Gestión de usuarios y permisos:** 
 
 •	Sistema de registro para nuevos usuarios (estudiantes, profesores, personal).
 
@@ -57,13 +57,13 @@
 
 •	Proceso de aprobación para nuevos registros de vehículos.
 
-**6. Notificaciones y comunicaciones:** 
+**7. Notificaciones y comunicaciones:** 
 
 •	Sistema de notificaciones push para informar a los usuarios sobre el estado del parqueadero.
 
 •	Alertas automáticas cuando el parqueadero esté cerca de su capacidad máxima.
 
-**7. Seguridad y privacidad:** 
+**8. Seguridad y privacidad:** 
 
 •	Encriptación de datos sensibles en la base de datos.
 
@@ -71,20 +71,20 @@
 
 •	Registro de auditoría para todas las transacciones y accesos al sistema.
 
-**8. Escalabilidad y rendimiento:** 
+**9. Escalabilidad y rendimiento:** 
 
 
 •	Arquitectura que permita escalar el sistema a medida que crezca la demanda.
 
 •	Optimización para manejar picos de tráfico durante horas punta.
 
-**9. Interfaz de administración:** 
+**10. Interfaz de administración:** 
 
 •	Panel de control para gestionar usuarios, vehículos y permisos.
 
 •	Herramientas para configurar parámetros del sistema (ej. capacidad del parqueadero, horarios de operación).
 
-**10. Monitoreo y mantenimiento:** 
+**11. Monitoreo y mantenimiento:** 
 
 •	Herramientas de monitoreo en tiempo real del estado del sistema.
 
