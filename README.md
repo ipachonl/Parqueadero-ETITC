@@ -10,6 +10,7 @@
  **Requerimientos de la solución:**
 
 **Base de datos:** 
+
 •	Diseño de una base de datos relacional para almacenar información de usuarios, vehículos y registros de entrada/salida.
 
 •	Capacidad para manejar un alto volumen de transacciones concurrentes.
