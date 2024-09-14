@@ -1,0 +1,17 @@
+¡Planteamiento del Problema
+
+El problema a resolver es que la universidad no tiene un control eficiente sobre el ingreso de vehiculos al parqueadero  del campus debido a que este registro se realiza mediante hojas (minutas) generando demora en el ingreso de los estudiantes y personal que llegan en diferentes tipos de vehiculos adicional genera inconvenientes en el trafico local ta les como trancones en la avenida, obstaculizando las entradas y salidas. 
+
+
+¡Objetivo General
+
+Presentar la implementación de un programa de registro de ingreso a parqueaderos en entornos universitarios, destacando sus beneficios en términos de eficiencia y seguridad en la gestión de estos espacios.
+
+### Objetivos Especificos
+
+•	Integrar el sistema de control de acceso a los parqueaderos universitarios basado en tecnología QR con la aplicación móvil institucional, permitiendo a los usuarios utilizar su carnet virtual como llave de acceso a los parqueaderos
+
+•	Describir los componentes principales del programa propuesto, incluyendo la base de datos y la generación de códigos QR, así como la aplicación o página web para el escaneo de estos códigos.
+
+•	Aumentar la eficiencia del registro de vehículos, eliminando errores humanos y facilitando la generación de reportes detallados sobre la ocupación de los parqueaderos, lo cual permitirá una mejor planificación y gestión de los espacios disponibles.
+  
