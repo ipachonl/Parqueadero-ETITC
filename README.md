@@ -108,5 +108,6 @@ Desarrollar e implementar un sistema de gestión de parqueadero basado en bases 
 
 •	Capacitar al personal de seguridad y administrativo en el uso del nuevo sistema de gestión de parqueadero. 
 
-•	Evaluar el impacto del nuevo sistema en los tiempos de espera y la satisfacción de los usuarios del parqueadero mediante encuestas y análisis de datos.
+•	Evaluar el impacto del nuevo sistema en los tiempos de espera y la satisfacción de los usuarios del parqueadero mediante encuestas y análisis de datos.   
+
 
