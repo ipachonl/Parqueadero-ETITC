@@ -111,7 +111,7 @@ El presente proyecto busca abordar de manera integral las problemáticas actuale
 
 ## Objetivo principal
 
-Desarrollar e implementar un sistema de gestión de parqueadero basado en bases de datos y generacion de códigos QR para la Universidad Pública de Kennedy, con el fin de optimizar el control de acceso, reducir los tiempos de espera, mejorar segurida y la eficiencia operativa.
+Desarrollar e implementar un sistema de gestión de parqueadero basado en bases de datos y generacion de códigos QR para la Universidad Pública de Kennedy, con el fin de optimizar el control de acceso, reducir los tiempos de espera, mejorar la seguridad y la eficiencia operativa.
 
 ### Objetivos Especificos
 
