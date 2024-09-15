@@ -1,9 +1,7 @@
 #¡Planteamiento del Problema
 En este proyecto tenemos 3 problemáticas:
 
-1. El trafico y tiempo de espera al momento de la entrada y salida del parqueadero.
-2. La seguridad en la salida del parqueadero (ya que por veces no piden pruebas del vehiculo en el que va saliendo, si es de su propiedad o no)
-3. Los registros son manuales en hojas, portafolios y cuadernos (Minutas), etc.
+El problema a resolver es que la universidad no tiene un control eficiente sobre el ingreso de vehiculos al parqueadero  del campus debido a que este registro se realiza mediante hojas (minutas) generando demora en el ingreso de los estudiantes y personal que llegan en diferentes tipos de vehiculos adicional genera inconvenientes en el trafico local ta les como trancones en la avenida, obstaculizando las entradas y salidas. 
 
 #¡Objetivo General
 Desarrollar e implementar un sistema de gestión de parqueadero basado en bases de datos y generacion de códigos QR para la Universidad Pública de Kennedy, con el fin de optimizar el control de acceso, reducir los tiempos de espera, mejorar segurida y la eficiencia operativa.
@@ -18,5 +16,4 @@ Desarrollar e implementar un sistema de gestión de parqueadero basado en bases 
 
 #¡ Justificacion
 
-La implementación de un programa de registro de ingreso a parqueaderos responde a la necesidad de mejorar la gestión de estos espacios en la Universidad Publica de Kennedy. Actualmente, el proceso de registro y control de vehículos en parqueaderos puede ser tedioso y propenso a errores, adicionalmente se pueden presentar fallas de seguridad, lo que genera inconvenientes tanto para los estudiantes como para los administradores. Por lo tanto, se hace imperativo desarrollar una solución que optimice este proceso y brinde beneficios tanto a los estudiantes como a la institución.
-El uso de tecnologías como bases de datos y códigos QR permitirá automatizar el registro de ingreso, agilizando el proceso y reduciendo la posibilidad de errores. Además, la implementación de una aplicación o página web para que los celadores escaneen los códigos asignados proporcionará una forma rápida y eficiente de llevar un registro preciso de los vehículos que ingresan al parqueadero.
+El presente proyecto busca abordar de manera integral las problemáticas actuales asociadas al sistema de control de acceso en los parqueaderos de la Universidad Pública de Kennedy. La gestión manual de los registros, basada en hojas y cuadernos, genera una serie de inconvenientes que impactan negativamente en la eficiencia operativa, la seguridad y la experiencia de los usuarios.
