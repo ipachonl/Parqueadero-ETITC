@@ -6,6 +6,16 @@
 1. El trafico y tiempo de espera al momento de la entrada y salida del parqueadero.
 2. La seguridad en la salida del parqueadero (En ocasiones no piden documentacion del vehiculo que va saliendo, para saber si es de su propiedad o no)
 3. Los registros son manuales en hojas, portafolios y cuadernos (Minutas), etc.
+
+## Justificación
+
+El presente proyecto busca abordar de manera integral las problemáticas actuales asociadas al sistema de control de acceso en los parqueaderos de la Universidad Pública de Kennedy. La gestión manual de los registros, basada en hojas y cuadernos, genera una serie de inconvenientes que impactan negativamente en la eficiencia operativa, la seguridad y la experiencia de los usuarios.
+**Problematica actual:**
+
+• Ineficiencia: Los registros manuales generan largas filas de espera, retrasos en el acceso y una baja eficiencia en la gestión de los espacios disponibles.
+• Inseguridad: La falta de un sistema de control automatizado expone los vehículos a posibles robos o daños, y dificulta la identificación de responsables en caso de incidentes.
+• Falta de datos: La ausencia de un sistema de registro digital impide la generación de reportes detallados y el análisis de patrones de uso, lo cual limita la toma de decisiones informadas.
+• Vulnerabilidad a errores: Los registros manuales son propensos a errores humanos, lo que puede generar confusiones y conflictos.
    
  **Requerimientos de la solución:**
 
@@ -89,6 +99,13 @@
 •	Herramientas de monitoreo en tiempo real del estado del sistema.
 
 •	Logs detallados para facilitar el diagnóstico y resolución de problemas.
+
+**Beneficios Esperados:**
+• Optimización de recursos: La automatización de los procesos reducirá los costos operativos y permitirá una mejor utilización de los espacios disponibles.
+• Mayor seguridad: La implementación de un sistema de control de acceso más seguro reducirá el riesgo de robos y otros incidentes.
+• Mejora de la imagen institucional: La adopción de tecnologías innovadoras posicionará a la universidad como una institución moderna y eficiente.
+• Facilidad de gestión: El sistema proporcionará a los administradores herramientas para gestionar de manera eficiente los parqueaderos y tomar decisiones basadas en datos.
+• Mayor satisfacción del usuario: La reducción de los tiempos de espera y la mejora en la seguridad aumentarán la satisfacción de los usuarios.
 
 ## Objetivo principal
 
