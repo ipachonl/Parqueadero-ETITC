@@ -7,6 +7,9 @@
 2. La seguridad en la salida del parqueadero (En ocasiones no piden documentacion del vehiculo que va saliendo, para saber si es de su propiedad o no)
 3. Los registros son manuales en hojas, portafolios y cuadernos (Minutas), etc.
 
+##Introducción
+El proyecto de "Parqueadero UPK" surge como una solución integral a los problemas de gestión, seguridad y eficiencia en el control de acceso de los parqueaderos de la Universidad Pública de Kennedy. Actualmente, el sistema manual de registro genera congestión, largas filas, y vulnerabilidades en la seguridad, afectando tanto a usuarios como al personal de seguridad. Ante estas deficiencias, se propone el desarrollo de un sistema automatizado que emplea bases de datos, generación de códigos QR y aplicaciones móviles/web, con el objetivo de optimizar el control de acceso vehicular, mejorar la seguridad y reducir los tiempos de espera. Esta modernización no solo ofrecerá una mejor experiencia para los usuarios, sino que también permitirá una gestión más eficiente y basada en datos, facilitando la toma de decisiones a nivel administrativo y aumentando la seguridad de los vehículos en el campus
+
 ## Justificación
 
 El presente proyecto busca abordar de manera integral las problemáticas actuales asociadas al sistema de control de acceso en los parqueaderos de la Universidad Pública de Kennedy. La gestión manual de los registros, basada en hojas y cuadernos, genera una serie de inconvenientes que impactan negativamente en la eficiencia operativa, la seguridad y la experiencia de los usuarios.
