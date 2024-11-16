@@ -1,12 +1,12 @@
-# Normalizacion tablas #
+# Normalizacion tablas 
 
 
 
-## Primera Forma Normal ##
+## Primera Forma Normal 
 
 Identificar las redundancias y separar dependencias en tablas mas pequeñas.
 
-** Tabla universidades **
+**Tabla universidades**
 
 | Id_Universidad | Universidad |
 |----------------|-------------|
@@ -14,7 +14,7 @@ Identificar las redundancias y separar dependencias en tablas mas pequeñas.
 | 2              | Pedagogica  |
 | 3              | Unicolmayor |
 
-** Tabla de roles **
+**Tabla de roles**
 
 | ID_Rol_Usuario | Rol_Usuario    |
 |----------------|----------------|
@@ -22,7 +22,7 @@ Identificar las redundancias y separar dependencias en tablas mas pequeñas.
 | 2              | Docente        |
 | 3              | Estudiante     |
 
-** Tabla tipo vehiculo **
+**Tabla tipo vehiculo**
 
 | ID_TIpoVehiculo | Tipo_Vehiculo |
 |-----------------|---------------|
@@ -30,7 +30,7 @@ Identificar las redundancias y separar dependencias en tablas mas pequeñas.
 | 2               | Bicicleta     |
 | 3               | Motocicleta   |
 
-** Tabla Usuarios **
+**Tabla Usuarios**
 
 
 | Cedula     | Fecha Ingreso | Nombre    | Apellido   | ID_Rol_Usuario | ID_Universidad | ID_Facultad | ID_ipoVehiculo | Imagen_Persona |
