@@ -26,7 +26,7 @@ El presente proyecto busca abordar de manera integral las problemáticas actuale
    
  **Requerimientos de la solución:**
 
-**1. Base de datos:** 
+### **1. Base de datos:** 
 
 •	Diseño de una base de datos relacional para almacenar información de usuarios, vehículos y registros de entrada/salida.
 
@@ -34,7 +34,9 @@ El presente proyecto busca abordar de manera integral las problemáticas actuale
 
 •	Mecanismos de backup y recuperación de datos.
 
-**2. Sistema de generación y gestión de códigos QR:**
+![image](https://github.com/user-attachments/assets/da932b91-e45f-492b-b55f-cbce977afd53)
+
+### **2. Sistema de generación y gestión de códigos QR:**
 
 •	Generación de códigos QR únicos para cada vehículo registrado.
 
@@ -42,7 +44,11 @@ El presente proyecto busca abordar de manera integral las problemáticas actuale
 
 •	Sistema de renovación y revocación de códigos QR.
 
-**3. Aplicación móvil/web para escaneo:** 
+### Ejemplo de boceto de los codigos QR:
+
+![Imagen de WhatsApp 2024-10-18 a las 20 33 56_a6186169](https://github.com/user-attachments/assets/a3832201-6909-4df2-a7a3-d5659881e96b)
+
+### **3. Aplicación móvil/web para escaneo:** 
 
 •	Compatibilidad con dispositivos iOS y Android.
 
@@ -50,7 +56,7 @@ El presente proyecto busca abordar de manera integral las problemáticas actuale
 
 •	Sincronización en tiempo real con la base de datos central.
 
-**4. Interfaz de usuario para guardas de seguridad:**
+### **4. Interfaz de usuario para guardas de seguridad:**
 
 •	Panel de control para visualizar entradas y salidas recientes.
 
@@ -58,7 +64,7 @@ El presente proyecto busca abordar de manera integral las problemáticas actuale
 
 •	Alertas visuales y sonoras para situaciones irregulares (ej. vehículo no autorizado).
 
-**5. Sistema de reportes y análisis:** 
+### **5. Sistema de reportes y análisis:** 
 
 •	Generación de informes diarios, semanales y mensuales de uso del parqueadero.
 
@@ -66,7 +72,7 @@ El presente proyecto busca abordar de manera integral las problemáticas actuale
 
 •	Exportación de datos en formatos comunes (CSV, PDF, Excel).
 
-**6. Gestión de usuarios y permisos:** 
+### **6. Gestión de usuarios y permisos:** 
 
 •	Sistema de registro para nuevos usuarios (estudiantes, profesores, personal).
 
@@ -74,13 +80,13 @@ El presente proyecto busca abordar de manera integral las problemáticas actuale
 
 •	Proceso de aprobación para nuevos registros de vehículos.
 
-**7. Notificaciones y comunicaciones:** 
+### **7. Notificaciones y comunicaciones:** 
 
 •	Sistema de notificaciones push para informar a los usuarios sobre el estado del parqueadero.
 
 •	Alertas automáticas cuando el parqueadero esté cerca de su capacidad máxima.
 
-**8. Seguridad y privacidad:** 
+### **8. Seguridad y privacidad:** 
 
 •	Encriptación de datos sensibles en la base de datos.
 
@@ -88,26 +94,25 @@ El presente proyecto busca abordar de manera integral las problemáticas actuale
 
 •	Registro de auditoría para todas las transacciones y accesos al sistema.
 
-**9. Escalabilidad y rendimiento:** 
-
+### **9. Escalabilidad y rendimiento:** 
 
 •	Arquitectura que permita escalar el sistema a medida que crezca la demanda.
 
 •	Optimización para manejar picos de tráfico durante horas punta.
 
-**10. Interfaz de administración:** 
+### **10. Interfaz de administración:** 
 
 •	Panel de control para gestionar usuarios, vehículos y permisos.
 
 •	Herramientas para configurar parámetros del sistema (ej. capacidad del parqueadero, horarios de operación).
 
-**11. Monitoreo y mantenimiento:** 
+### **11. Monitoreo y mantenimiento:** 
 
 •	Herramientas de monitoreo en tiempo real del estado del sistema.
 
 •	Logs detallados para facilitar el diagnóstico y resolución de problemas.
 
-**Beneficios Esperados:**
+## **Beneficios Esperados:**
 
 * Optimización de recursos: La automatización de los procesos reducirá los costos operativos y permitirá una mejor utilización de los espacios disponibles.
 *  Mayor seguridad: La implementación de un sistema de control de acceso más seguro reducirá el riesgo de robos y otros incidentes.
