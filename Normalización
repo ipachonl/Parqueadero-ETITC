@@ -4,7 +4,7 @@
 
 ## Primera Forma Normal 
 
-Identificar las redundancias y separar dependencias en tablas mas pequeñas.
+Identificar las redundancias y datos que no sean atomicos, separar dependencias en tablas mas pequeñas.
 
 **Tabla universidades**
 
@@ -85,3 +85,60 @@ Identificar las redundancias y separar dependencias en tablas mas pequeñas.
 | 8890123460 | 17/09/2024    | Paula     | Cordero    | 2              | 3              | 18          | 1              | www.Imagen.com |
 | 9901234571 | 17/09/2024    | Nicolás   | Salas      | 1              | 1              | 25          | 2              | www.Imagen.com |
 | 1012345673 | 18/09/2024    | Mariana   | Castro     | 2              | 1              | 25          | 3              | www.Imagen.com |
+
+**tabla de facultades**
+
+| Id_Universidad | Facultad            |   | Facultad            | Id_Facultad |
+|----------------|---------------------|---|---------------------|-------------|
+| 2              | Ingeniería          |   | Administración      | 1           |
+| 2              | Medicina            |   | Arquitectura        | 2           |
+| 2              | Administración      |   | Artes               | 3           |
+| 3              | Derecho             |   | Biblioteca          | 4           |
+| 1              | Ingeniería          |   | Biología            | 5           |
+| 1              | Ingeniería          |   | Contabilidad        | 6           |
+| 1              | Ingeniería          |   | Deportes            | 7           |
+| 2              | Arquitectura        |   | Derecho             | 8           |
+| 2              | Finanzas            |   | Economía            | 9           |
+| 1              | Ingeniería          |   | Finanzas            | 10          |
+| 1              | Ingeniería          |   | Física              | 11          |
+| 1              | Economía            |   | Fisioterapia        | 12          |
+| 3              | Biblioteca          |   | Historia            | 13          |
+| 1              | Ingeniería          |   | Informática         | 14          |
+| 3              | Historia            |   | Ingeniería          | 15          |
+| 3              | Deportes            |   | Ingeniería Civil    | 16          |
+| 2              | Odontología         |   | Marketing           | 17          |
+| 1              | Ingeniería          |   | Matemáticas         | 18          |
+| 3              | Sistemas            |   | Medicina            | 19          |
+| 3              | Veterinaria         |   | Nutrición           | 20          |
+| 2              | Sociología          |   | Odontología         | 21          |
+| 1              | Sistemas            |   | Psicología          | 22          |
+| 3              | Contabilidad        |   | Recursos Humanos    | 23          |
+| 2              | Artes               |   | Relaciones Públicas | 24          |
+| 1              | Sistemas            |   | Sistemas            | 25          |
+| 3              | Relaciones Públicas |   | Sociología          | 26          |
+| 2              | Nutrición           |   | Veterinaria         | 27          |
+| 1              | Sistemas            |   
+| 3              | Marketing           |   
+| 2              | Fisioterapia        |   
+| 1              | Sistemas            |   
+| 3              | Ingeniería Civil    |   
+| 2              | Recursos Humanos    |   
+| 1              | Sistemas            |   
+| 3              | Psicología          |   
+| 2              | Informática         |   
+| 1              | Sistemas            |   
+| 3              | Historia            |   
+| 2              | Biblioteca          |   
+| 1              | Sistemas            |   
+| 3              | Economía            |   
+| 2              | Física              |   
+| 1              | Sistemas            |   
+| 3              | Derecho             |   
+| 2              | Biología            |   
+| 2              | Sistemas            |   
+| 3              | Odontología         |   
+| 2              | Matemáticas         |   
+| 1              | Sistemas            |   
+| 1              | Sistemas            |   
+
+
