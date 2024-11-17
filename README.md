@@ -140,4 +140,32 @@ Desarrollar e implementar un sistema de gestión de parqueadero basado en bases 
 
 •	Evaluar el impacto del nuevo sistema en los tiempos de espera y la satisfacción de los usuarios del parqueadero mediante encuestas y análisis de datos.   
 
+### Normalización de los datos del parqueadero de la universadad
+
+Tener en cuenta que los datos que tenemos en esta Normalización son de un solo dia de registro y de un unico registro para cada usuario.
+
+1.En la primera hoja de el excel tenemos los datos en crudo:
+
+![image](https://github.com/user-attachments/assets/51f89ffb-3567-4ef8-b7e6-d7d6c329b8d0)
+
+2.En la segunda hoja de el excel Organizamos un poco los datos:
+
+![image](https://github.com/user-attachments/assets/a89a15ba-5645-45ba-b6e9-f87235407d29)
+
+3.En la tercera hoja de el excel hicimos la reduccion de datos que no servian y dejamos solo los importantes  y tambien aplicamos la primera forma normal.
+
+![image](https://github.com/user-attachments/assets/14f3b13c-8717-464e-b1e2-907d85fa50a6)
+
+4.En la cuarta hoja de el excel aplicamos la segunda forma normal.
+
+![image](https://github.com/user-attachments/assets/a87a75ab-402b-4a83-aaab-6300c8f4ec92)
+
+5.En la quinta hoja de el excel aplicamos la tercera forma normal.
+
+![image](https://github.com/user-attachments/assets/4b3fa4bf-456c-46b0-b3c9-332ae89d1aa2)
+
+6.En la sexta hoja de el excel ya tenemos las tablas que vamos a subir al workbench.
+
+![image](https://github.com/user-attachments/assets/ba356f1c-9afe-4b21-b49e-cdadb388db46)
+
 
