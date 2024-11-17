@@ -140,7 +140,7 @@ Desarrollar e implementar un sistema de gestión de parqueadero basado en bases 
 
 •	Evaluar el impacto del nuevo sistema en los tiempos de espera y la satisfacción de los usuarios del parqueadero mediante encuestas y análisis de datos.   
 
-## Normalización de los datos del parqueadero de la universadad
+## Normalización de los datos del parqueadero de la universadad UPK
 
 Tener en cuenta que los datos que tenemos en esta Normalización son de un solo dia de registro y de un unico registro para cada usuario.
 
