@@ -146,3 +146,9 @@ Desarrollar e implementar un sistema de gestión de parqueadero basado en bases 
 Tener en cuenta que los datos que tenemos en esta Normalización son de un solo dia de registro y de un unico registro para cada usuario.
 ```
 Para mas información puedes ver el siguiente repositorio en siguente enlace [Nomalización](Normalización.md) en este enlace hay mucha mas información acerca de las tablas.
+
+## Diagrama EER 
+
+En este apartado podremos ver el diagrama generado con las tablas normalizadas. [Diagrama EER](https://github.com/ipachonl/Parqueadero-ETITC/blob/main/Diagrama%20ER%20Parqueadero.jpg)
+
+
