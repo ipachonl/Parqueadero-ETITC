@@ -145,4 +145,4 @@ Desarrollar e implementar un sistema de gestión de parqueadero basado en bases 
 ```{note}
 Tener en cuenta que los datos que tenemos en esta Normalización son de un solo dia de registro y de un unico registro para cada usuario.
 ```
-Para mas información puedes darle click en el siguente enlace [Nomalización](Normalización.md) en este enlace hay mucha mas información.
+Para mas información puedes ver el siguiente repositorio en siguente enlace [Nomalización](Normalización.md) en este enlace hay mucha mas información acerca de las tablas.
