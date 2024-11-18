@@ -87,7 +87,7 @@ Identificar las redundancias y datos que no sean atomicos, separar dependencias 
 | 9901234571 | 17/09/2024    | Nicolás   | Salas      | 1              | 1              | 25          | 2              | www.Imagen.com |
 | 1012345673 | 18/09/2024    | Mariana   | Castro     | 2              | 1              | 25          | 3              | www.Imagen.com |
 
-**tabla de facultades**
+**Tabla de Univerisdad  y facultad** ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎    **Tabla Facultades**
 
 | Id_Universidad | Facultad            |   | Facultad            | Id_Facultad |
 |----------------|---------------------|---|---------------------|-------------|
