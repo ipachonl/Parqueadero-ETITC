@@ -5,6 +5,7 @@
 El proyecto de "Parqueadero UPK" surge como una solución integral a los problemas de gestión, seguridad y eficiencia en el control de acceso de los parqueaderos de la Universidad Pública de Kennedy. Actualmente, el sistema manual de registro genera congestión, largas filas, y vulnerabilidades en la seguridad, afectando tanto a usuarios como al personal de seguridad. Ante estas deficiencias, se propone el desarrollo de un sistema automatizado que emplea bases de datos, generación de códigos QR y aplicaciones móviles/web, con el objetivo de optimizar el control de acceso vehicular, mejorar la seguridad y reducir los tiempos de espera. Esta modernización no solo ofrecerá una mejor experiencia para los usuarios, sino que también permitirá una gestión más eficiente y basada en datos, facilitando la toma de decisiones a nivel administrativo y aumentando la seguridad de los vehículos en el campus
 
 ## Planteamiento del Problema
+
 **En este proyecto tenemos 3 problemáticas:**
 
 1. El trafico y tiempo de espera al momento de la entrada y salida del parqueadero.
@@ -31,16 +32,16 @@ Desarrollar e implementar un sistema de gestión de parqueadero basado en bases 
 
 •	Evaluar el impacto del nuevo sistema en los tiempos de espera y la satisfacción de los usuarios del parqueadero mediante encuestas y análisis de datos.   
 
-## Justificación
-
-El presente proyecto busca abordar de manera integral las problemáticas actuales asociadas al sistema de control de acceso en los parqueaderos de la Universidad Pública de Kennedy. La gestión manual de los registros, basada en hojas y cuadernos, genera una serie de inconvenientes que impactan negativamente en la eficiencia operativa, la seguridad y la experiencia de los usuarios.
-
 ## **Problematica actual:**
 
 * Ineficiencia: Los registros manuales generan largas filas de espera, retrasos en el acceso y una baja eficiencia en la gestión de los espacios disponibles.
 * Inseguridad: La falta de un sistema de control automatizado expone los vehículos a posibles robos o daños, y dificulta la identificación de responsables en caso de incidentes.
 * Falta de datos: La ausencia de un sistema de registro digital impide la generación de reportes detallados y el análisis de patrones de uso, lo cual limita la toma de decisiones informadas.
 * Vulnerabilidad a errores: Los registros manuales son propensos a errores humanos, lo que puede generar confusiones y conflictos.
+
+## Justificación
+
+El presente proyecto busca abordar de manera integral las problemáticas actuales asociadas al sistema de control de acceso en los parqueaderos de la Universidad Pública de Kennedy. La gestión manual de los registros, basada en hojas y cuadernos, genera una serie de inconvenientes que impactan negativamente en la eficiencia operativa, la seguridad y la experiencia de los usuarios.
    
 ## **Requerimientos para la solución:**
 
