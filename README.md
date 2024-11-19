@@ -44,7 +44,7 @@ El presente proyecto busca abordar de manera integral las problemáticas actuale
 
 •	Sistema de renovación y revocación de códigos QR.
 
-## Ejemplo de boceto de los codigos QR:
+### Ejemplo de boceto de los codigos QR:
 
 ![Imagen de WhatsApp 2024-10-18 a las 20 33 56_a6186169](https://github.com/user-attachments/assets/a3832201-6909-4df2-a7a3-d5659881e96b)
 
