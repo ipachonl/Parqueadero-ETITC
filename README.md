@@ -153,4 +153,4 @@ En este apartado podremos ver el diagrama generado con las tablas normalizadas. 
 
 ## Diagrama ER 
 
-En este apartado podremos ver el diagrama generado con las tablas normalizadas. [Diagrama EER](https://github.com/ipachonl/Parqueadero-ETITC/blob/main/Diagrama%20ER%20Parqueadero.jpg)
+En este apartado podremos ver el diagrama generado con las tablas normalizadas. [Diagrama ER](https://github.com/ipachonl/Parqueadero-ETITC/blob/main/Diagrama%20ER%20Parqueadero.jpg)
