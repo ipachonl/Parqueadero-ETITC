@@ -17,14 +17,14 @@ El proyecto de "Parqueadero UPK" surge como una solución integral a los problem
 
 El presente proyecto busca abordar de manera integral las problemáticas actuales asociadas al sistema de control de acceso en los parqueaderos de la Universidad Pública de Kennedy. La gestión manual de los registros, basada en hojas y cuadernos, genera una serie de inconvenientes que impactan negativamente en la eficiencia operativa, la seguridad y la experiencia de los usuarios.
 
-**Problematica actual:**
+## **Problematica actual:**
 
 * Ineficiencia: Los registros manuales generan largas filas de espera, retrasos en el acceso y una baja eficiencia en la gestión de los espacios disponibles.
 * Inseguridad: La falta de un sistema de control automatizado expone los vehículos a posibles robos o daños, y dificulta la identificación de responsables en caso de incidentes.
 * Falta de datos: La ausencia de un sistema de registro digital impide la generación de reportes detallados y el análisis de patrones de uso, lo cual limita la toma de decisiones informadas.
 * Vulnerabilidad a errores: Los registros manuales son propensos a errores humanos, lo que puede generar confusiones y conflictos.
    
- **Requerimientos de la solución:**
+## **Requerimientos para la solución:**
 
 ### **1. Base de datos:** 
 
@@ -44,7 +44,7 @@ El presente proyecto busca abordar de manera integral las problemáticas actuale
 
 •	Sistema de renovación y revocación de códigos QR.
 
-### Ejemplo de boceto de los codigos QR:
+## Ejemplo de boceto de los codigos QR:
 
 ![Imagen de WhatsApp 2024-10-18 a las 20 33 56_a6186169](https://github.com/user-attachments/assets/a3832201-6909-4df2-a7a3-d5659881e96b)
 
