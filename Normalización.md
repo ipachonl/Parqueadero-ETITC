@@ -265,7 +265,7 @@ En esta tabla los datos dependen de la llave primaria "Id_Registro"
 ## Tercera forma normal
 
 
-** Tabla datos_de_el_vehiculo**
+**Tabla datos_de_el_vehiculo**
 
 | Cedula     | Id_Vehiculos | Tipo_Vehiculo | Placa  | Marca       | Modelo     | Id_Color | Imagen         |
 |------------|--------------|---------------|--------|-------------|------------|----------|----------------|
@@ -321,7 +321,7 @@ En esta tabla los datos dependen de la llave primaria "Id_Registro"
 | 1012345673 | 50           | Motocicleta   | PGB12G | Suzuki      | Gixxer     | 9        | www.Imagen.com |
 
 
-** Tabla color_vehiculo**
+**Tabla color_vehiculo**
 
 Relacion de uno a muchos ya que un vehiculo puede tener varios colores.
 
@@ -379,7 +379,7 @@ Relacion de uno a muchos ya que un vehiculo puede tener varios colores.
 |          |            |   |   | 50           | 9        |
 
 
-** Tabla Registro del tiempo (Entrada/Salida)**
+**Tabla Registro del tiempo (Entrada/Salida)**
 
 Relacion de uno a uno donde cada persona que tenga vehiculo genera un registro unico al dia.
 
