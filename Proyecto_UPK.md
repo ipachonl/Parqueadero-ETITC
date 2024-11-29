@@ -153,3 +153,9 @@ En este apartado podremos ver el diagrama generado con las tablas normalizadas. 
 ## Diagrama ER 
 
 En este apartado podremos ver el diagrama generado con las tablas normalizadas. [Diagrama ER](https://github.com/ipachonl/Parqueadero-ETITC/blob/main/Diagrama%20ER%20Parqueadero.jpg)
+
+## Apartado de Consultas MySql 
+
+En este apartado encontrarás diversas consultas realizadas a la base de datos para gestionar información relacionada con vehículos, estudiantes o facultades. Estas consultas permiten obtener, actualizar y analizar los datos almacenados en las tablas, optimizando el acceso y la visualización de la información.
+
+[Consultas](Consultas.md) 🔗
