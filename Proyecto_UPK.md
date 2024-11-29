@@ -156,6 +156,4 @@ En este apartado podremos ver el diagrama generado con las tablas normalizadas. 
 
 ## Apartado de Consultas MySql 
 
-En este apartado encontrarás diversas consultas realizadas a la base de datos para gestionar información relacionada con vehículos, estudiantes o facultades. Estas consultas permiten obtener, actualizar y analizar los datos almacenados en las tablas, optimizando el acceso y la visualización de la información.
-
-[Consultas](Consultas.md) 🔗
+En este apartado encontrarás diversas consultas realizadas a la base de datos para gestionar información relacionada con vehículos, estudiantes o facultades. Estas consultas permiten obtener, actualizar y analizar los datos almacenados en las tablas, optimizando el acceso y la visualización de la información. [Consultas](Consultas.md) 🔗
