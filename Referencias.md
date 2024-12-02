@@ -1,4 +1,4 @@
-## Referencias Del Archivo
+## Referencias del Proyecto UPK
 
 ChatGPT. (n.d.). Chatgpt.com. Retrieved December 2, 2024, from https://chatgpt.com
 
