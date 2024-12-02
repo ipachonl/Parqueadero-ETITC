@@ -1,4 +1,4 @@
-# Proyecto Parqueadero UPK 
+![consulta simple1](https://github.com/user-attachments/assets/201d5495-98e5-4944-9c4e-611a98f95d0a)# Proyecto Parqueadero UPK 
 
 ## Consultas MYSQL
 
@@ -125,6 +125,108 @@ WHERE tablafacultades.Facultad = 'Ingeniería';
 
 ![image](https://github.com/user-attachments/assets/bfcd3eb7-a28e-4161-a384-d2518e17763a)
 
+### Consultas sencillas 2
 
+**1. Contar cuántas personas están registradas en una facultad específica (id_facultad = 15) "historia".**
+
+**SQL equivalente**:
+
+```sql
+SELECT COUNT(*) AS total_personas FROM datospersonales WHERE id_facultad = 15;
+```
+![consulta simple1](https://github.com/user-attachments/assets/e646de5f-9059-40c5-9a70-a8b36c8ccbb2)
+
+**2.Listar los registros de las personas que ingresaron después de las 9:00 a.m.**
+
+**SQL equivalente**:
+```sql
+SELECT cedula_persona, hora_entrada FROM registroingresoysalida WHERE hora_entrada > '09:00';
+```
+![consulta simple2](https://github.com/user-attachments/assets/f17b6020-6441-4030-a156-f3a7971cfec8)
+
+**3.Contar cuántas personas hay en la base de datos**
+
+**SQL equivalente**:
+```sql
+SELECT COUNT(*) AS TotalPersonas FROM datospersonales;
+```
+![consulta simple3](https://github.com/user-attachments/assets/53795919-1099-46ee-ab47-1f48ada7e3ca)
+
+**4.Personas cuyo apellido contiene ez.**
+
+**SQL equivalente**:
+```sql
+SELECT * FROM datospersonales WHERE Apellido LIKE '%ez%';
+```
+![consulta simple4](https://github.com/user-attachments/assets/ab817068-317e-4bbb-9d54-82b3703d48c5)
+
+**5.Personas con el rol 2 o de la universidad 2.**
+
+**SQL equivalente**:
+```sql
+SELECT * FROM datospersonales WHERE  ID_Rol_Usuario = 2 OR ID_Universidad = 2;
+```
+![consulta simple5](https://github.com/user-attachments/assets/e86eb791-fe76-42a2-848a-e18806fe2809)
+
+
+## Consultas de nivel medio
+
+**6. cuantas personas se encuentran registradas en la facultad de arquitectura.**
+
+**SQL equivalente**:
+```sql
+SELECT COUNT(dp.cedula) AS total_registrados
+FROM datospersonales dp
+JOIN tablafacultades tf ON dp.id_facultad = tf.id_facultad
+WHERE tf.nombre_facultad = 'arquitectura';
+```
+![consulta media1](https://github.com/user-attachments/assets/4b5dc9a1-084f-49c9-aff5-5ac2a15ea77e)
+
+**7.Mostrar el nombre de la universidad y el número de registros en cada universidad.**
+
+**SQL equivalente**:
+```sql
+SELECT tu.nombre_universidad, COUNT(dp.cedula) AS total_registrados
+FROM datospersonales dp
+JOIN tablauniversidades tu ON dp.id_universidad = tu.id_universidad
+GROUP BY tu.nombre_universidad;
+```
+![consulta media2](https://github.com/user-attachments/assets/e13c44c7-29b7-48b5-acac-8f29337463e5)
+
+**8.Obtener el tiempo total de estadía por cada usuario en todas sus visitas.**
+
+**SQL equivalente**:
+```sql
+SELECT dp.nombre, dp.apellido, SUM(r.tiempo_estadia) AS tiempo_total
+FROM registroingresoysalida r
+JOIN datospersonales dp ON r.cedula_persona = dp.cedula
+GROUP BY dp.cedula, dp.nombre, dp.apellido;
+```
+![consulta media3](https://github.com/user-attachments/assets/9aefd38e-ebdf-4b8d-bfae-1896056f9223)
+
+**9.Listar las facultades que tienen más de 10 registros en el estacionamiento.**
+
+**SQL equivalente**:
+```sql
+SELECT tf.nombre_facultad, COUNT(dp.cedula) AS total_registrados
+FROM datospersonales dp
+JOIN tablafacultades tf ON dp.id_facultad = tf.id_facultad
+GROUP BY tf.nombre_facultad
+HAVING total_registrados > 10;
+```
+![consulta media4](https://github.com/user-attachments/assets/d6e5aead-d247-4572-beff-713f7164ea21)
+
+**10.Obtener las facultades con el mayor tiempo total de estadía acumulado por sus usuarios.**
+
+**SQL equivalente**:
+```sql
+SELECT tf.nombre_facultad, SUM(r.tiempo_estadia) AS tiempo_total
+FROM registroingresoysalida r
+JOIN datospersonales dp ON r.cedula_persona = dp.cedula
+JOIN tablafacultades tf ON dp.id_facultad = tf.id_facultad
+GROUP BY tf.nombre_facultad
+ORDER BY tiempo_total DESC;
+```
+![consulta media5](https://github.com/user-attachments/assets/41b4e1e2-ec27-4f7e-8136-f15f2df64cab)
 
 
