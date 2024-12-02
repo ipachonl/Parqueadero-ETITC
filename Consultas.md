@@ -1,4 +1,3 @@
-![consulta simple1](https://github.com/user-attachments/assets/201d5495-98e5-4944-9c4e-611a98f95d0a)# Proyecto Parqueadero UPK 
 
 ## Consultas MYSQL
 
